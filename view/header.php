@@ -12,7 +12,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sistem Informasi Pemesanan Kamar Pada Hotel Horison Kendari</title>
+	<title>Sistem Informasi Pemesanan Kamar Pada Hotel HOTEL BINTANG 5 INDONESIA</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<script type="text/javascript" src="lib/sweet.js"></script>
@@ -24,7 +24,7 @@
 <body>
 
 	<nav>
-		<img src="gambar\1.jpeg" width="200px">
+		<img src="gambar\1.jpeg" width="100px">
 		<ul>
 			<li><a href="index">Beranda</a></li>
 			<li><a href="kamar">Kamar</a></li>
