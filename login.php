@@ -37,7 +37,7 @@ if($cari){
 <div id="page">
 		<center>
 		<li>Silahkan Login</li>
-        <img src="gambar/horisonkdi.png" width="150px;" style="margin-top: 10px;border: 1px solid white;">
+        <img src="gambar/2.jpeg" width="150px;" style="margin-top: 10px;border: 1px solid white;">
             <form method="post" action="login">
                 <table style="margin-top: 10px; margin-bottom: 10px;">
                     <tr>
