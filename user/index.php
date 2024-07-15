@@ -19,10 +19,68 @@
 		var teks = document.getElementById('selek').options[document.getElementById('selek').selectedIndex].text;
 		document.opsi.harga.value = type;
 		document.opsi.tipex.value = teks;
-
 	}
+
+	document.addEventListener("DOMContentLoaded", function() {
+		var images = [
+			'../gambar/3.jpg',
+			'../gambar/4.webp',
+			'../gambar/5.jpg',
+			'../gambar/6.jpeg',
+			'../gambar/7.webp'
+		];
+
+		var index = 0;
+		function changeBackground() {
+			var backgroundLayer = document.getElementById('background-layer');
+			backgroundLayer.style.backgroundImage = 'url(' + images[index] + ')';
+			backgroundLayer.style.boxShadow = 'inset 0 0 100px rgba(0, 0, 0, 0.5)';
+			index = (index + 1) % images.length;
+		}
+
+		// Change background every 5 seconds (5000 milliseconds)
+		setInterval(changeBackground, 5000);
+
+		// Initial call to set the first background
+		changeBackground();
+	});
 </script>
 
+<style>
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+	#background-wrapper {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		z-index: -1;
+		overflow: hidden;
+	}
+	#background-layer {
+		width: 100%;
+		height: 100%;
+		background-size: cover;
+		background-attachment: fixed;
+		transition: background-image 1s ease-in-out, box-shadow 1s ease-in-out;
+	}
+
+	#content-wrapper {
+		position: relative;
+		z-index: 1;
+		padding: 20px;
+	}
+</style>
+
+<div id="background-wrapper">
+	<div id="background-layer"></div>
+</div>
+
+<div id="content-wrapper">
 	<div id="imgindex">
 		<div id="imglog">
 			<p><br>Selamat Datang<br>
