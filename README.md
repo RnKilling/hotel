@@ -12,4 +12,4 @@ Library : - SweetAlert (Javascript) - FPDF (Laporan)
   user: ali
   pass: 123
 # Team Support
-  Ali - Fahri - Inka - Furkan
+  AKMAL - NENGAH - YUDA 
