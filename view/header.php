@@ -24,7 +24,7 @@
 <body>
 
 	<nav>
-		<img src="gambar/horisonkdi.png" width="200px">
+		<img src="gambar\1.jpeg" width="200px">
 		<ul>
 			<li><a href="index">Beranda</a></li>
 			<li><a href="kamar">Kamar</a></li>
