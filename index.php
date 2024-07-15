@@ -15,7 +15,7 @@
 
 	<div id="imgindex">
 		<div id="imglog">
-			<p><br>Selamat Datang<br>
+			<p><br>Selamat Datang Di Hotel Bintang 5 Indonesia<br>
 			<a href="daftar" id="tomboll">DAFTAR</a>
 			<a href="login" id="tombol2">LOGIN</a><br>&nbsp;</p>
 		</div>
