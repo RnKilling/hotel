@@ -82,7 +82,7 @@
 
 			<div id="petalokasi">
 				<h3>Peta Lokasi</h3><br>
-				<img src="gambar/horison1.png" width="70%">
+				<img src="gambar\hotel_bintang5.png" width="70%">
 			</div>
 			</center>
 	
