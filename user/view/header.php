@@ -55,7 +55,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sistem Informasi Pemesanan Kamar Pada Hotel Horison Kendari</title>
+	<title>Sistem Informasi Pemesanan Kamar Pada Hotel Bintang 5 Indonesia</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="../css/styles.css">
 	<link rel="stylesheet" type="text/css" href="../css/popup.css">
