@@ -84,7 +84,7 @@
 	<div id="imgindex">
 		<div id="imglog">
 			<p><br>Selamat Datang<br>
-				*********<br>&nbsp;</p>
+				Di Hotel Bintang 5 Indonesia<br></p>
 		</div>
 	</div>
 
