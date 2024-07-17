@@ -63,7 +63,7 @@
 </head>
 <body>
 	<nav>
-			<img src="../gambar/bintang5.png" width="200px"> <span style="float: right; margin-right: 80px;"><center><img src="../simpangambar/<?php 
+			<img src="../gambar/bintang5.png" width="150px"> <span style="float: right; margin-right: 80px;"><center><img src="../simpangambar/<?php 
 				if ($foto != '') {
 					echo $foto;
 				}
