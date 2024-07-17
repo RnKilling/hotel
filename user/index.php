@@ -130,11 +130,11 @@
 			<div id="tentang">
 				<h3>Tentang Kami</h3><br>
 				<p>
-					Hotel Horison Kendari adalah cabang dari Horison Group yang terletak di pusat kota Kendari, tepatnya di Jalan Ahmad Yani No. 3. Hotel ini merupakan hotel bintang tiga yang berlokasi strategis di pusat kota Kendari. Lokasi yang sempurna dan akses mudah ke daerah wisata membuat Horison Kendari tempat yang bagus untuk pengunjung bisnis dan liburan. Hotel ini memiliki total 58 kamar yang terdiri atas 7 Kamar Superior, 45 Kamar Deluxe, 4 Suite Junior, dan 2 Suite Eksekutif.
-				</p><br>
-				<p>
-					Horison Kendari berjarak sekitar 12 km dari Bandara Halu Oleo. Gedung MTQ yang merupakan landmark kota Kendari bisa ditempuh dengan berkendara kurang dari lima menit, sementara pusat perbelanjaan Lippo Plaza Kendari dapat diakses dengan delapan menit berkendara dari penginapan.
-				</p>
+		Hotel Bintang 5 Indonesia menawarkan pengalaman menginap yang mewah dan nyaman dengan fasilitas kelas dunia. Terletak di berbagai lokasi strategis di seluruh Indonesia, hotel-hotel kami memberikan akses mudah ke destinasi wisata terkenal dan pusat bisnis.
+	</p><br>
+	<p>
+		Hotel ini memiliki berbagai tipe kamar yang dirancang untuk kenyamanan maksimal, termasuk kamar Superior, Deluxe, Junior Suite, dan Executive Suite. Dengan pelayanan terbaik dan fasilitas lengkap, Hotel Bintang 5 Indonesia adalah pilihan tepat untuk wisatawan bisnis dan liburan.
+	</p>
 			</div>
 
 			<div id="cekinout">
