@@ -38,7 +38,7 @@
                                 </div>
                                 <div class="tipekamar"><b>Rp. <?php echo $angka ?></div></b>
                                 <img src="simpangambar/<?php echo $gambar ?>" width="200px" height="150px"/>
-                                <div class="tipekamar">Tersedia <?php echo $stok ?> Kamar</div>
+                                <div class="tipekamar">Tersedia nih<?php echo $stok ?> Kamar</div>
                                 
                             </center>
                         </td>
