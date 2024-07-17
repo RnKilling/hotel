@@ -55,7 +55,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sistem Informasi Pemesanan Kamar Pada Hotel Horison Kendari</title>
+	<title>Sistem Informasi Pemesanan Kamar Pada Hotel Bintang 5 Indonesia</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="../css/styles.css">
 	<link rel="stylesheet" type="text/css" href="../css/popup.css">
@@ -63,7 +63,7 @@
 </head>
 <body>
 	<nav>
-			<img src="../gambar/horisonkdi.png" width="200px"> <span style="float: right; margin-right: 80px;"><center><img src="../simpangambar/<?php 
+			<img src="../gambar/bintang5.png" width="150px"> <span style="float: right; margin-right: 80px;"><center><img src="../simpangambar/<?php 
 				if ($foto != '') {
 					echo $foto;
 				}
