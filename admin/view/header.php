@@ -34,7 +34,7 @@
 </head>
 <body>
 	<header>
-		<h1 class="judul">Hotel Horison Kendari</h1>
+		<h1 class="judul">Hotel Bintang 5 Di Indonesia</h1>
 		<h3 class="desc">Sistem Informasi Pemesanan Kamar</h3>
 	</header>
 
